@@ -1,0 +1,37 @@
+
+
+/* generals -------------------------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Fredoka', sans-serif;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+/* /generals -------------------------------- */
+
+
+
+/* header -------------------------------- */
+
+header {
+text-align: center;
+padding-top: 30px;
+
+}
+
+header h1 {
+  color: rgb(228 50 112);
+  padding-bottom: 50px;
+}
+
+/* /header -------------------------------- */
